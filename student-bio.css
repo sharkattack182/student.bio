@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(202, 206, 209);
+    color: rgb(17, 17, 17);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: rgb(77, 75, 73);
+    color: burlywood;
+    text-align: center;
+}
+
+.bio {
+    width: 70%;
+    margin: 0 auto;
+}
+
+section {
+    float: left;
+}
+
+p {
+    width: 400px;
+}
